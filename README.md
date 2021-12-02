@@ -1,5 +1,5 @@
 # bash-gcp-buckets-public
-Enumerate through all buckets and output if they're public.
+Bash script to enumerate through all buckets and output if they're public.
 
 ## Dependencies
 - This depends on setup of [gcp-inspector](https://github.com/justmorpheus/gcp-inspector)
