@@ -17,5 +17,5 @@ Enumerate through all buckets and output if they're public.
 - Sip :coffee: and enjoy!
 
 ## Not For Production
-- Tested on Mac OSX with zsh shell
+- Tested on macOS Monterey with zsh shell
 - Not for use in production without proper vetting and testing first :smile:
